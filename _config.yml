@@ -1,3 +1,5 @@
 theme: jekyll-theme-time-machine
 author: SupV
 title: Milk'Log
+baseurl: "/div-log"
+profile_url: "http://milknocandy.github.io"
